@@ -2,6 +2,8 @@
 
 memoize async function
 
+status: production ready
+
 ```javascript
 const memoize = require("getto-memoize");
 

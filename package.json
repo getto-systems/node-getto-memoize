@@ -1,0 +1,23 @@
+{
+  "name": "getto-memoize",
+  "version": "0.0.0",
+  "description": "memoize async function",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --config jest.config.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/getto-systems/node-getto-memoize.git"
+  },
+  "author": "shun@getto.systems",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/getto-systems/node-getto-memoize/issues"
+  },
+  "homepage": "https://github.com/getto-systems/node-getto-memoize#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}

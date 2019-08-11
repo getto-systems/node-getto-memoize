@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## Version : 1.0.0
+
+production ready! See merge request getto-systems-labo/node/getto-memoize!3
+add: releaseignore See merge request getto-systems-labo/node/getto-memoize!2
+
+
 ## Version : 0.2.0
 
 

@@ -1,3 +1,5 @@
+image: node:10.16.0-stretch
+
 stages:
   - test
   - version_dump
@@ -12,8 +14,6 @@ test:
     changes:
       - index.js
       - test/**/*
-
-  image: node:10.16.0-stretch
 
   before_script:
     - npm clean-install

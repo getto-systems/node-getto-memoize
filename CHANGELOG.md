@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## Version : 1.0.6
+
+- fix: gitlab-ci : See merge request getto-systems-base/labo/node/getto-memoize!13
+
+
 ## Version : 1.0.5
 
 

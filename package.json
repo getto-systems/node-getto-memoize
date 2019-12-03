@@ -1,6 +1,6 @@
 {
   "name": "getto-memoize",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "memoize async function",
   "main": "index.js",
   "scripts": {
